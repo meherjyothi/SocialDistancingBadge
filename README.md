@@ -1,1 +1,2 @@
 # SocialDistancingBadge
+The aim of this project is to design a system that will aid us in times of pandemics such as the COVID-19 – a cost effective and easy model to help the people and the community to keep in check with social-distancing protocols. The main features of this affordable IOT-based solution include social distancing check and temperature sensing, using ultrasonic rays, infrared sensor/thermal cameras/temperature sensors etc. The device comes in the form of a badge to be put on by everyone. 
